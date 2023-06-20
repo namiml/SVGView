@@ -56,7 +56,7 @@ class SVG12Tests: BaseTestCase {
     func testPaintFill04T() {
         compareToReference("paint-fill-04-t")
     }
-  
+
     func testPaintFill06T() {
         compareToReference("paint-fill-06-t")
     }
